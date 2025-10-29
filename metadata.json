@@ -1,0 +1,5 @@
+{
+  "name": "インタラクティブ本棚コンフィギュレーター",
+  "description": "寸法、素材、機能をカスタマイズできるインタラクティブな3D本棚コンフィギュレーターです。リアルタイムの価格計算と部品表（BOM）生成機能を備えています。React、Zustand、React Three Fiberで構築されています。",
+  "requestFramePermissions": []
+}
